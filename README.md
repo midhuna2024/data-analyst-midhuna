@@ -95,3 +95,5 @@ Results were published via an EC2 server for internal access.
 -  A well-structured dataset, stored in AWS S3, partitioned by year, and ready for analysis with Amazon Athena.
 -  Automated jobs to repeat the data cleaning and structuring process as needed.
 
+  This project highlights your ability to perform end-to-end data analysis using AWS cloud services, including data ingestion, cleaning, transformation, analysis, and visualization, to provide actionable insights to the City of Vancouver.
+
