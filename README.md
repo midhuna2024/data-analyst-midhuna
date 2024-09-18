@@ -70,6 +70,9 @@ The goal of this project is to build a secure, governed, and monitored data plat
 - Aws vpc
 - Aws ec2
 - AWS CloudWatch & CloudTrail
+  The project not only achieves its objective of creating a secure, governed, and monitored data platform but also lays the groundwork for future scalability and integration with other datasets or research domains. This platform can be expanded to incorporate additional features such as machine learning models, more advanced data visualizations, and predictive analytics, all of which will further enhance UCW's research capabilities.
+
+By following these steps, the platform demonstrates its value as a reliable, secure, and insightful tool for managing research ethics data at UCW, ensuring the highest levels of data  storage , retrieving, accessing, security, governance, and usability.
 
 
  
