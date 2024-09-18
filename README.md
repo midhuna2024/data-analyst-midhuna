@@ -39,11 +39,15 @@ The dataset used in this project was sourced from the City of Vancouver's open d
      - Removing records that had insufficient information.
      - Imputing missing values if necessary.
    - **Formatting Data**: Ensured that all fields (such as dates and categorical variables) were formatted correctly for analysis, such as converting text fields into appropriate formats.
+     ![image](https://github.com/user-attachments/assets/3d577260-1558-4cb5-8561-d3a436a687f2)
+
 
 6. **Data Structuring**:
    - **Schema Changes**: The dataset schema was restructured to make the data easier to work with:
      - Renamed columns for better readability (e.g., “DogStatus” instead of ambiguous names).
      - Created new columns by extracting data (e.g., extracting the "Year" from a date column).
+       ![image](https://github.com/user-attachments/assets/665dfde0-470e-4d1c-a5a3-3e28fa93f8d8)
+
    
 7. **Data Pipeline Design and Implementation**:  
    Designed an ETL (Extract, Transform, Load) pipeline using AWS Glue DataBrew to clean and transform the data. The pipeline involved removing unnecessary columns and calculating the percentage of lost dogs using the formula:
