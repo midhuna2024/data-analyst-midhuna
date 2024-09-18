@@ -15,6 +15,12 @@ The goal of this project is to build a secure, governed, and monitored data plat
 
 2. **Data Storage Design**: Setup of S3 buckets for raw, cleaned, and curated data.
    <img width="960" alt="aws console" src="https://github.com/user-attachments/assets/7ce668e6-dde8-480b-aa11-264aaef2c3ce">
+   <img width="947" alt="raw" src="https://github.com/user-attachments/assets/042e793a-d1f4-4ca9-b697-218069534341">
+   <img width="932" alt="curated" src="https://github.com/user-attachments/assets/4c8f574d-ec0e-403b-8589-cc987f477414">
+   <img width="956" alt="trusted" src="https://github.com/user-attachments/assets/7215da59-f965-481e-9770-f6e81916dc15">
+
+
+
    
 3. **Dataset Preparation**: Data cleaning and structuring.
    <img width="960" alt="aws3" src="https://github.com/user-attachments/assets/03c026c4-771b-405b-a429-19a14d97b860">
