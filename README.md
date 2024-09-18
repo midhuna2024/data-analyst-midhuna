@@ -27,7 +27,7 @@ The goal of this project is to build a secure, governed, and monitored data plat
    
 
 4. **Data Pipeline**: Building ETL processes using AWS Glue.
-   <img width="960" alt="etl" src="https://github.com/user-attachments/assets/d1ace023-3cda-4a91-a23a-24822d03de87">
+   
    <img width="960" alt="aws ETL" src="https://github.com/user-attachments/assets/ba3c01b1-ef49-4a99-b543-450c6172a3ca">
 
 
