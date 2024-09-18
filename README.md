@@ -12,6 +12,8 @@ The dataset used in this project was sourced from the City of Vancouver's open d
 - Other relevant attributes
 
 ## Methodology
+<img width="598" alt="1" src="https://github.com/user-attachments/assets/832b2b61-3627-4a96-b503-4ba9bb412227">
+
 
 1. **Data Discovery**:  
    Extracted relevant data from the City of Vancouver’s open data portal, focusing on lost and found dog records for 2023 and 2024.
