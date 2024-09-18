@@ -3,6 +3,8 @@
 
 ## Objective
 The goal of this phase of the project was to ensure data protection, governance, and continuous monitoring for the animal lost and found data from the City of Vancouver using AWS services. This included encryption of data, maintaining data quality, implementing governance policies, and setting up monitoring to track key metrics and ensure security and performance.
+<img width="932" alt="2" src="https://github.com/user-attachments/assets/492d022c-9e9f-4304-a941-613b48755a05">
+
 
 ## Data Protection
 
@@ -72,7 +74,7 @@ The goal of this phase of the project was to ensure data protection, governance,
 - **Data Governance Pipelines**: Workflows to ensure that only high-quality data is stored in the trusted folders.
 - **CloudWatch Dashboards**: For real-time monitoring of the project's health and cost efficiency.
 - **CloudTrail Logs**: To provide a detailed audit trail of API activity in the environment.
-- 
+
   conclusion highlights the successful integration of AWS services and the security, governance, and monitoring achievements of the project, reinforcing the importance of these features for the platform's overall efficiency and reliability.
 
 
